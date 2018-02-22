@@ -1,0 +1,4 @@
+baseURL = "https://sfdye.com/"
+languageCode = "en-us"
+title = "Liuyang's Blog"
+theme = "ananke"
