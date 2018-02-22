@@ -1,7 +1,6 @@
 ---
 title: "Migrate from Jekyll to Hugo"
 date: 2018-02-22T17:29:13+08:00
-draft: true
 ---
 
 Today I spent around one hour to switch my blog from `Jekyll` to `Hugo`. The reason is pretty simple.
