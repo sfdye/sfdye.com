@@ -2,12 +2,16 @@ baseURL = "https://sfdye.com/"
 languageCode = "en-us"
 title = "Liuyang's Blog"
 theme = "hugo-nuo"
+
 # Disqus Username
 disqusShortname = "sfdye"
+
+# GitHub styled syntax highlighting
 pygmentsCodeFences=true
 pygmentsCodefencesGuessSyntax=true
+
 # Google Analytics UA number
-# googleAnalytics = "UA-XXXXXXXX-X"
+googleAnalytics = "UA-107754442-1"
 
 # Copyright of your post
 # copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce."
@@ -18,12 +22,6 @@ pygmentsCodefencesGuessSyntax=true
   weight = 10
   identifier = "home"
   url = "/"
-
-[[menu.main]]
-  name = "Works"
-  weight = 20
-  identifier = "works"
-  url = "https://github.com/sfdye"
 
 [[menu.main]]
   name = "Tags"
