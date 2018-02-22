@@ -4,7 +4,8 @@ title = "Liuyang's Blog"
 theme = "hugo-nuo"
 # Disqus Username
 disqusShortname = "sfdye"
-
+pygmentsCodeFences=true
+pygmentsCodefencesGuessSyntax=true
 # Google Analytics UA number
 # googleAnalytics = "UA-XXXXXXXX-X"
 
