@@ -2,6 +2,7 @@ baseURL = "https://sfdye.com/"
 languageCode = "en-us"
 title = "Liuyang's Blog"
 theme = "hugo-nuo"
+enableRobotsTXT = true
 
 # Disqus Username
 disqusShortname = "sfdye"
@@ -32,7 +33,7 @@ googleAnalytics = "UA-107754442-1"
 # Add your own params here
 [params]
   author = "Wan Liuyang"
-  avatar = "/assets/images/avatar.jpg"
+  avatar = "images/avatar.jpg"
 #   seotitle = "Hugo Blog (SEO Version)"
   subtitle = "(Café) Latte-driven, Python & Django Developer"
 #   description = "Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again."
